@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Kamal9061
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java,HTML5,CSS3,java script, bootstrap,node js,react js.
-- 💞️ I’m looking to collaborate on best development.
-- 📫 How to reach me contact on my mail and Linkedln I'd - linkedin.com/in/kamal-jeet-arya-5133021a5
-
-<!---
-Kamal9061/Kamal9061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👋 Hi, I’m Kamal Jeet Arya (@Kamal9061)
+* 👀 I’m passionate about web development and building high-performance solutions.
+* 🌱 Currently expanding my skills in Java, HTML5, CSS3, JavaScript, Bootstrap, Node.js, and React.js.
+* 💼 Successfully built a high-performing team from scratch, with high satisfaction and minimal attrition.
+* 💻 Expertise in creating high-performance services using Microservices Architecture.
+* 🚀 My roles have included creating new user interfaces, fixing bugs, and integrating payment systems like BBPS (NPCI).
+* 💡 I specialize in technologies like Next.js, React.js, Node.js, Redux Thunk, Redux Toolkit, Bootstrap, CSS, HTML, JavaScript, TypeScript, and Material UI.
+* 💞️ I’m eager to collaborate on innovative web development projects that push boundaries and deliver robust solutions.
+* 📫 Reach me on https://www.linkedin.com/in/kamal9068/.
