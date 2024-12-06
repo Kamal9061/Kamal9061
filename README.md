@@ -1,6 +1,6 @@
 * 👋 Hi, I’m Kamal Jeet Arya (@Kamal9061)
 * 👀 I’m passionate about web development and building high-performance solutions.
-* 🌱 Currently expanding my skills in Java, HTML5, CSS3, JavaScript, Bootstrap, Node.js, and React.js.
+* 🌱 Currently expanding my skills in Java, HTML5, CSS3, JavaScript, Bootstrap, Node.js, Java, Spring Bootand React.js.
 * 💼 Successfully built a high-performing team from scratch, with high satisfaction and minimal attrition.
 * 💻 Expertise in creating high-performance services using Microservices Architecture.
 * 🚀 My roles have included creating new user interfaces, fixing bugs, and integrating payment systems like BBPS (NPCI).
